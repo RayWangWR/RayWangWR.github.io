@@ -12,7 +12,7 @@ permalink: /research/
 
 2. **Wang R**, et al. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets" (Accepted to Finds of ACL2023, the title may be changed for camera ready)
 
-3. Wu J*, **Wang R\***, et al. "[Few-Shot Composition Learning for Image Retrieval with Prompt Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/25597)" (Accepted to AAAI 2022)
+3. Wu J\*, **Wang R\***, et al. "[Few-Shot Composition Learning for Image Retrieval with Prompt Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/25597)" (Accepted to AAAI 2022)
 
 4. **Wang R**, Cheng P, Henao R. "Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling." International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
 
