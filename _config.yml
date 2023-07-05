@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rui Wang"
-  avatar           : "s2.jpg"
+  avatar           : "me.jpg"
   bio              : "PhD student at UNC-NLP, advised by Mohit Bansal. Interested in interpretable ML, natural language processing, AI Safety, and Effective Altruism."
   location         : "Chapel Hill, NC"
   employer         :
