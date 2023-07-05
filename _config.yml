@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HomePage"
+title                    : "My HomePage"
 title_separator          : "-"
 name                     : &name Rui Wang"
 description              : &description "Rui Wang"
