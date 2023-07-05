@@ -24,7 +24,7 @@ I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo H
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
 * 2023 - Research Intern at Adobe Research
 * 2023 - One paper accepted by Findings of ACL
-* 2023 - Invited Talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
+* 2023 - Invited talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
 * 2023 - One paper accepted by AAAI
 * 2023 - One paper accepted by AISTATS
 * 2022 - Review for AAAI, ARR, BMVC
