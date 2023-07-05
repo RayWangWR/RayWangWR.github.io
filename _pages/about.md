@@ -21,13 +21,20 @@ I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo H
 
 
 ## News
-* 2023 - One paper accepted by Findings of ACL 2023
-* 2023 - One paper accepted by AAAI 2023
-* 2023 - One paper accepted by AISTATS 2023
-* 2022 - One paper accepted by Findings of EMNLP 2022
-* 2022 - One paper accepted by ACL 2022
-* 2021 - One paper accepted by EMNLP 2021
-* 2020 - One paper accepted by Findings of EMNLP 2020
+* 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR and AAAI
+* 2023 - Research Intern at Adobe Research
+* 2023 - One paper accepted by Findings of ACL
+* 2023 - Invited Talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
+* 2023 - One paper accepted by AAAI
+* 2023 - One paper accepted by AISTATS
+* 2022 - Review for AAAI, ARR, BMVC
+* 2022 - Research Intern at Adobe Research
+* 2022 - One paper accepted by Findings of EMNLP
+* 2022 - One paper accepted by ACL
+* 2021 - Review for AAAI
+* 2021 - One paper accepted by EMNLP
+* 2020 - Applied Scientist Intern at Amazon Alexa
+* 2020 - One paper accepted by Findings of EMNLP
 
 ## Publications
 
