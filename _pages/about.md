@@ -42,9 +42,9 @@ I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo H
 
 2. **Wang R**, et al. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets" (Accepted to Finds of ACL2023, the title may be changed for camera ready)
 
-3. Wu J\*, **Wang R\***, et al. "[Few-Shot Composition Learning for Image Retrieval with Prompt Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/25597)" (Accepted to AAAI 2022)
+3. Wu J\*, **Wang R\***, et al. "[Few-Shot Composition Learning for Image Retrieval with Prompt Tuning]([https://ojs.aaai.org/index.php/AAAI/article/view/25597](https://github.com/RayWangWR/Compositional-Image-Retrieval))" (Accepted to AAAI 2022)
 
-4. **Wang R**, Cheng P, Henao R. "Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling." International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
+4. **Wang R**, Cheng P, Henao R. "[Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling.](https://github.com/RayWangWR/Fair-Text_Generation)" International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
 
 5. Wu J*, **Wang R\***, et al. "[Context-aware Information-theoretic Causal De-biasing for Interactive Sequence Labeling.](https://aclanthology.org/2022.findings-emnlp.251.pdf)" Findings of the Association for Computational Linguistics: EMNLP 2022.
 
