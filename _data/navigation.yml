@@ -4,12 +4,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Talks"
-    url: /talks/
 
-  - title: "Teaching"
+  - title: "Professional Experiences"
     url: /teaching/        
-    
-  - title: "CV"
-    url: /cv/
+
     
