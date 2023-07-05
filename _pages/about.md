@@ -44,7 +44,7 @@ I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo H
 
 3. Wu J\*, **Wang R\***, et al. "[Few-Shot Composition Learning for Image Retrieval with Prompt Tuning](https://github.com/RayWangWR/Compositional-Image-Retrieval)" (Accepted to AAAI 2022)
 
-4. **Wang R**, Cheng P, Henao R. "[Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling.]([https://github.com/RayWangWR/Fair-Text_Generation](https://github.com/RayWangWR/Fair-Text-Generation)" International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
+4. **Wang R**, Cheng P, Henao R. "[Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling.](https://github.com/RayWangWR/Fair-Text-Generation)" International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
 
 5. Wu J*, **Wang R\***, et al. "[Context-aware Information-theoretic Causal De-biasing for Interactive Sequence Labeling.](https://aclanthology.org/2022.findings-emnlp.251.pdf)" Findings of the Association for Computational Linguistics: EMNLP 2022.
 
