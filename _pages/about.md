@@ -36,7 +36,7 @@ I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo H
 * 2020 - Applied Scientist Intern at Amazon Alexa
 * 2020 - One paper accepted by Findings of EMNLP
 
-## Publications
+## Selceted Publications
 
 1. **Wang R**, et al. "Gradient-Free Personalized Federated Learning with Pretrained Language Models." (Submitted to ACL Rolling Review)
 
