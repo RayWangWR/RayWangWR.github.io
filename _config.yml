@@ -13,7 +13,7 @@ name                     : &name Rui Wang"
 description              : &description "Rui Wang"
 url                      : https://raywangwr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "raywangwr/peterbhase.github.io"
+repository               : "raywangwr/raywangwr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rui Wang"
   avatar           : "me.jpg"
-  bio              : "PhD student at UNC-NLP, advised by Mohit Bansal. Interested in interpretable ML, natural language processing, AI Safety, and Effective Altruism."
-  location         : "Chapel Hill, NC"
+  bio              : "PhD student at Duke University."
+  location         : "Durham, NC"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "ia-rjLUAAAAJ&hl"
   email            : "rw161@duke.edu"
   researchgate     :  
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peterbhase"
+  github           : "RayWangWR"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "peter-hase"
+  linkedin         : "rui-wang-882906178"
   orcid            : 
   pinterest        :
   soundcloud       :
