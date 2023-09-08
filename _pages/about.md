@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao) and I am expected to graduate in 2023. My research areas cover low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, etc. I am currently working on mitigating the hallucination issue in text generation, when distilling from large language models.
+I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao) and I am expected to graduate in 2023. My research areas cover low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, etc. I am currently working on mitigating the hallucination issue in text generation with the large language models.
 
 
 
