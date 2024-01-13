@@ -22,7 +22,7 @@ I am software engineer in Google Cloud AI working on improving text generation q
 
 ## News
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
-* 2023 - Research Intern at Adobe Research on mitigating hallucination in text generation
+* 2023 - Research Intern in Adobe Research on mitigating hallucination in text generation
 * 2023 - One paper accepted by Findings of ACL
 * 2023 - Invited talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
 * 2023 - One paper accepted by AAAI
@@ -42,7 +42,7 @@ I am software engineer in Google Cloud AI working on improving text generation q
   
 2. **Wang R**, et al. "Gradient-Free Personalized Federated Learning with Pretrained Language Models." (Submitted to ACL Rolling Review)
 
-3. Wu J, Yu T, **Wang R**, Song Z, Zhang R, ZHao H, Lu C, Li S, Henao R. "InfoPrompt: Information-Theoretic Soft Prompt Tuning for Natural Language Understanding" (NeurIps 2023)
+3. Wu J, Yu T, **Wang R**, Song Z, Zhang R, Zhao H, Lu C, Li S, Henao R. "InfoPrompt: Information-Theoretic Soft Prompt Tuning for Natural Language Understanding" (NeurIps 2023)
 
 4. **Wang R**, Yu T, Wu J, Zhao H, Kim S, Zhang R, Mitra S, Henao R. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets." (Finds of ACL 2023)
 
