@@ -16,13 +16,13 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate in ECE, Duke University. My advisor is Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao) and I am expected to graduate in 2023. My research areas cover low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, medical data analysis, etc. I am currently working on mitigating the hallucination issue in text generation with the large language models.
+I am software engineer in Google Cloud AI working on Large Language Models. I obtained my PhD degree from Duke University in 2023, advised by Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao). During my PhD study, my research areas cover low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, medical data analysis, etc. I am currently working on improving text generation quality with Gemini.
 
 
 
 ## News
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
-* 2023 - Research Intern at Adobe Research
+* 2023 - Research Intern at Adobe Research on mitigating hallucination in text generation
 * 2023 - One paper accepted by Findings of ACL
 * 2023 - Invited talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
 * 2023 - One paper accepted by AAAI
