@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am software engineer in Google Cloud AI working on improving text generation quality with Gemini. I obtained my PhD degree from Duke University in 2023, advised by Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao). During my PhD study, my research areas cover low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, medical data analysis, etc. Previously, I interned in Adobe (2023) working on mitigating hallucination in text generation with large language models. I also interned in Adobe (2021) on continual few-shot learning and Amazon (2020) on knowledge distillation.
+I am software engineer in Google Cloud AI working on improving text generation quality with Gemini. I obtained my PhD degree from Duke University in 2023, advised by Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao). My PhD research lies in the area of low-resource training with pretrained deep learning models, for the tasks of text generation, text/image retrieval, natural language understanding, medical data analysis, etc. Previously, I interned in Adobe (2023) working on mitigating hallucination in text generation with large language models. I also interned in Adobe (2021) on continual few-shot learning and Amazon (2020) on knowledge distillation.
 
 
 
