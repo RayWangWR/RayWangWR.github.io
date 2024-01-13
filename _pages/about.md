@@ -21,8 +21,10 @@ I am software engineer in Google Cloud AI working on improving text generation q
 
 
 ## News
+* 2024 - Joining Google Cloud AI working on Gemini
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
 * 2023 - Research Intern in Adobe Research on mitigating hallucination in text generation
+* 2023 - One Paper accepted by NeurIps
 * 2023 - One paper accepted by Findings of ACL
 * 2023 - Invited talk in Fidelity Investments on "Efficient Low-Resource Training with Pretrained Language Models"
 * 2023 - One paper accepted by AAAI
