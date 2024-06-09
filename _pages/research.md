@@ -16,9 +16,9 @@ permalink: /research/
 
 4. Wu J, Yu T, **Wang R**, Song Z, Zhang R, Zhao H, Lu C, Li S, Henao R. Infoprompt: Information-theoretic soft prompt tuning for natural language understanding. Advances in Neural Information Processing Systems, 36.
 
-5. Wu J*, **Wang R***, Zhao H, Zhang R, Lu C, Li S, Henao R. "Few-Shot Composition Learning for Image Retrieval with Prompt Tuning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
+5. **Wang R**, Yu T, Wu J, Zhao H, Kim S, Zhang R, Mitra S, Henao R. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets." Findings of the Association for Computational Linguistics: ACL 2023. 
 
-6. **Wang R**, Yu T, Wu J, Zhao H, Kim S, Zhang R, Mitra S, Henao R. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets." Findings of the Association for Computational Linguistics: ACL 2023. 
+6. Wu J*, **Wang R***, Zhao H, Zhang R, Lu C, Li S, Henao R. "Few-Shot Composition Learning for Image Retrieval with Prompt Tuning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
 
 7. **Wang R**, Cheng P, Henao R. "Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling." International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
 
