@@ -21,7 +21,7 @@ I am a software engineer in Google Cloud AI working on text generation factualit
 
 
 ## News
-* 2024 - Listed as among the [core contributors of Gemini](https://github.com/RayWangWR/raywangwr.github.io/assets/44150395/8c6f1241-d06b-417d-b7b3-deab3f519bcb)
+* 2024 - Listed as among the [core contributors of Gemini](https://github.com/RayWangWR/raywangwr.github.io/assets/44150395/8c6f1241-d06b-417d-b7b3-deab3f519bcb](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
 * 2024 - Join Google Cloud AI working on Gemini
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
 * 2023 - Research Intern in Adobe Research on mitigating hallucination in text generation
