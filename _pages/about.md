@@ -50,13 +50,13 @@ I am a software engineer in Google Cloud AI working on Gemini text generation fa
 
 5. **Wang R**, Yu T, Wu J, Zhao H, Kim S, Zhang R, Mitra S, Henao R. "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets." Findings of the Association for Computational Linguistics: ACL 2023. 
 
-6. Wu J*, **Wang R***, Zhao H, Zhang R, Lu C, Li S, Henao R. "Few-Shot Composition Learning for Image Retrieval with Prompt Tuning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
+6. Wu J\*, **Wang R**\*, Zhao H, Zhang R, Lu C, Li S, Henao R. "Few-Shot Composition Learning for Image Retrieval with Prompt Tuning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
 
 7. **Wang R**, Cheng P, Henao R. "Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling." International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR, 2023.
 
 8. **Wang R**, Yu T, Zhao H, Kim S, Mitra S, Zhang R, Henao R.  "Few-Shot Class-Incremental Learning for Named Entity Recognition." Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL). 2022.
 
-9. Wu J*, **Wang R***, Yu T, Zhang R, Zhao H, Li S, Henao R, Nenkova A. "Context-aware Information-theoretic Causal De-biasing for Interactive Sequence Labeling." Findings of the Association for Computational Linguistics: EMNLP 2022.
+9. Wu J\*, **Wang R**\*, Yu T, Zhang R, Zhao H, Li S, Henao R, Nenkova A. "Context-aware Information-theoretic Causal De-biasing for Interactive Sequence Labeling." Findings of the Association for Computational Linguistics: EMNLP 2022.
     
 10. **Wang R**, Henao R. "Unsupervised Paraphrasing Consistency Training for Low Resource Named Entity Recognition." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.
 
