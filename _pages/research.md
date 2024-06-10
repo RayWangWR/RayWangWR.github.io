@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Publications
 
-1. **Wang R**, et al. "Gradient-Free Personalized Federated Learning with Pretrained Language Models." (Findings of NAACL 2024)
+1. **Wang R**, et al. "Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning" (Findings of NAACL 2024)
 
 2. Huang C, **Wang R**, Xie, K, Yu T, Yao L. Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach. arXiv preprint arXiv:2404.03514.
 
