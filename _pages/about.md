@@ -39,7 +39,7 @@ I am a software engineer in Google Cloud AI working on text generation factualit
 * 2020 - Applied Scientist Intern at Amazon Alexa
 * 2020 - One paper accepted by Findings of EMNLP
 
-## Selceted Publications
+## Selected Publications
 
 1. **Wang R**, et al. "Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning" (Findings of NAACL 2024)
 
