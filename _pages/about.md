@@ -41,7 +41,7 @@ I am a software engineer in Google Cloud AI working on text generation factualit
 
 ## Selected Publications
 
-1.**Wang R**, et al. Mitigating Indirect Prompt Injection for Large Language Models via Attributing to the Hidden States. (WIP)
+1. **Wang R**, et al. Mitigating Indirect Prompt Injection for Large Language Models via Attributing to the Hidden States. (WIP)
 
 2. Wu J, Li X, Yu T, **Wang R**, Wang Y, Gu J, Yao L, Shang J, McAuley J. COMMIT: Coordinated Instruction Tuning for MultiModal Large Language Models. (Submitted to ICLR 2025)
 
