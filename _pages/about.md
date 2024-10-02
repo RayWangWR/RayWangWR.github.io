@@ -39,7 +39,9 @@ I am a software engineer in Google Cloud AI working on text generation factualit
 * 2020 - Applied Scientist Intern at Amazon Alexa
 * 2020 - One paper accepted by Findings of EMNLP
 
-## Selected Publications (until early 2024)
+## Selected Publications
+
+Please refer to my resume for updated works.
 
 1. **Wang R**, Yu T, Zhang R, Kim S, Rossi R, Zhao H, Junda Wu, Subrata Mitra, Lina Yao, and Ricardo Henao. Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning. Findings of the Association for Computational Linguistics: NAACL 2024.
 
